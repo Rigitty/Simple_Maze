@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kapi
+  - map14
+  - map24
+  - map34
+  - map44
+  - fener
+  - lamba
+  - followpath
+  - robot
+  - key
+  - exit
+  - scriptexe
+  - t1
+  - remove
+  - add
+  - swyn
+  - tmtext
+  - tfltext
+  - kapi2
+  - t21
+  - t22
+  - t23
+  - Sett
+  - lastexit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PP
+  - Water
+  - UI
+  - layert
+  - 
+  - 
+  - touchable
+  - Obstacle
+  - exitdoor
+  - fpath
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
